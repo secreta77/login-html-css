@@ -1,0 +1,77 @@
+.container{
+    max-width: 550px;
+    background-color: rgb(213, 211, 211);
+    padding: 40px;
+    margin: 0 auto;
+    margin-top: 100px;
+
+}
+
+h1{
+    text-align: center;
+    font-size: 30px;
+    text-decoration: underline;
+    font-weight: 900;
+    margin-bottom: 30px;
+
+}
+
+input{
+    margin-left: 30px;
+    margin-top: 5px;
+    padding: 5px;
+    font-size: 15px;
+}
+
+
+label{
+    display: inline-block;
+    width: 120px;
+    font-size: 18px;
+    opacity: 0.5;
+
+
+}
+
+textarea{
+    margin-left: 30px;
+    margin-top: 10px;
+}
+
+
+
+
+
+.radio-group label {
+    display: inline-block;
+    width: auto;
+    margin-right: 65px;
+    
+}
+
+input[type="radio"] {
+    margin-right: -3px;
+}
+
+
+.button-group{
+    margin-top: 10px;
+    margin-left: 154px;
+    
+ 
+}
+
+
+.reset{
+    margin-left: 40px;
+}
+
+
+
+
+
+
+
+
+
+
